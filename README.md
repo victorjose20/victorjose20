@@ -3,6 +3,7 @@
 - 🔭  Quero trabalhar com front-end
 - 🌱 Atualmente estou estudando sobre Js
 - 📫 Contate-me no email: victoraraujo@unigranrio.br
+- 📫 Meu 
 
 <div align="center">
   <a href="">
@@ -20,7 +21,7 @@
 
 
 <div> 
-  <a href = "victoraraujo@unigranrio.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/victor-araujo-07941222b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:victoraraujo@unigranrio.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<ahref="www.linkedin.com/in/victoraraujo07941222b"target="_blank<imgsrc="https://img.shields.io/badge/LinkedIn%230077B5style=forthebadge&logo=linkedin&logoColor=white"target="_blank"></a> 
  
 </div>
