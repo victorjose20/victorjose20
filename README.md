@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor José
 
 - 🔭  Quero trabalhar com front-end
-- 🌱 Atualmente estou estudando sobre Js e React
+- 🌱 Atualmente estou estudando sobre Js
 - 📫 Contate-me no email: victoraraujo@unigranrio.br
 
 <div align="center">
@@ -20,5 +20,5 @@
 
 
 <div> 
-  <a href="https://www.linkedin.com/in/victor-araujo-07941222b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="=https://www.linkedin.com/in/victor-araujo-desenvolvedor-frontend" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-        badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
