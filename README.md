@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Victor José
 
 - 🔭  Quero trabalhar com front-end
-- 🌱 Atualmente estou estudando sobre Js
+- 🌱 Atualmente estou estudando sobre React 
 - 📫 Contate-me no email: victoraraujo@unigranrio.br
 
 <div align="center">
