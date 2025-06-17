@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor José
 
-- 🔭  Quero trabalhar com front-end
+- 🔭 Desenvolvedor Front-end
 - 🌱 Sempre estudando
 - 📫 Contate-me no email: victoraraujo@unigranrio.br
 
